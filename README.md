@@ -87,3 +87,26 @@ Code → Download ZIP
 本 Skill 用于辅助科研选题和研究设计。
 
 新颖性、研究价值和发表潜力仍需要结合完整文献检索、实际实验以及领域专家判断进行确认。
+
+## 许可说明 / License
+
+Copyright (c) 2026 ryxucas
+
+本项目允许任何人自由使用、复制、修改和分发，包括用于商业用途。
+
+在复制或重新分发本项目或其主要内容时，请保留原作者及本许可说明。
+
+本项目按“现状”提供，作者不对使用本项目产生的任何问题或损失承担责任。
+
+---
+
+Copyright (c) 2026 ryxucas
+
+Permission is granted to freely use, copy, modify, and distribute this project,
+including for commercial purposes.
+
+When copying or redistributing this project or substantial portions of it,
+please retain the original author attribution and this license notice.
+
+This project is provided "as is", without warranty of any kind.
+The author is not liable for any damages arising from its use.
