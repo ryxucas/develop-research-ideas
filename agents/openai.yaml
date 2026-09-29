@@ -1,0 +1,13 @@
+interface:
+  display_name: 研究选题与主线打磨
+  short_description: 从领域文献发现值得研究的问题，核实新意与可行性，收敛论文主线
+  default_prompt: 请使用 $develop-research-ideas，从我感兴趣的领域或已有想法出发，梳理前人研究、发现有价值的研究机会，核实差异与可行性并收敛主线。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
